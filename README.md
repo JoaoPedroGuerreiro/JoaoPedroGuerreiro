@@ -17,7 +17,7 @@ If you’re into coding, gaming, or have any treasure (fantasy book recommendati
 |---------|
 | [ChatServer](1) |
 | [Pixel Draw](2) |
-| [volunteerHUB] Check out --> https://github.com/JoaoPedroGuerreiro/VolunteerHUB|
+| [volunteerHUB] Check out --> (https://github.com/JoaoPedroGuerreiro/VolunteerHUB)|
 
 
 ## 🔧 Skills & Tools
