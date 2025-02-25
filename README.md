@@ -16,7 +16,7 @@ If you’re into coding, gaming, or have any treasure (fantasy book recommendati
 | Project |
 |---------|
 | [ChatServer] |
-| [Pixel Draw] |
+| [Picasso](https://github.com/JoaoPedroGuerreiro/Picasso-aka-CubeDraw) |
 | [VolunteerHUB](https://github.com/JoaoPedroGuerreiro/VolunteerHUB)|
 | [After Midnight](https://github.com/JoaoPedroGuerreiro/AfterMidnight)|
 
