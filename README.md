@@ -15,10 +15,10 @@ If you’re into coding, gaming, or have any treasure (fantasy book recommendati
 ## 🌟 Featured Projects 
 | Project |
 |---------|
-| [ChatServer](1) |
-| [Pixel Draw](2) |
+| [ChatServer] |
+| [Pixel Draw] |
 | [VolunteerHUB](https://github.com/JoaoPedroGuerreiro/VolunteerHUB)|
-
+| [After Midnight](https://github.com/JoaoPedroGuerreiro/AfterMidnight)|
 
 ## 🔧 Skills & Tools
 
