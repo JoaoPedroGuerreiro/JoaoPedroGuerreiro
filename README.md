@@ -52,4 +52,6 @@ If you’re into coding, gaming, or have any treasure (fantasy book recommendati
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroGuerreiro&show_icons=true&theme=radical)
 
+## 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroGuerreiro&layout=compact&theme=radical)
 
