@@ -58,3 +58,7 @@ If you’re into coding, gaming, or have any treasure (fantasy book recommendati
 ## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroGuerreiro&layout=compact&theme=radical)
 
+
+![Mischief Managed](https://media1.tenor.com/m/TzfDaNM2tEkAAAAd/mischief-managed-marauders-map.gif)
+
+
