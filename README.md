@@ -1,6 +1,6 @@
 # Greetings, fellow adventurers⚔️ I'm João Pedro Guerreiro!
 
-![Gandalf Light Burst](https://tenor.com/view/lotr-light-gandalf-white-gif-20018885)
+![Gandalf Light Burst](https://media.giphy.com/media/7f6b8e8c8f8a5c8d9c8a5c8d9c8a5c8d/tenor.gif)
 
 🚀 Full Stack Developer | 📚 Lifelong Learner | 🎮 Gaming | 🏄‍♂️ Skimboarding | 🎲 D&D
 
