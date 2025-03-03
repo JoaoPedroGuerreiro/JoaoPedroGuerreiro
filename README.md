@@ -1,6 +1,6 @@
 # Greetings, fellow adventurers⚔️ I'm João Pedro Guerreiro!
 
-![Gandalf Light Burst](https://media.tenor.com/images/7f6b8e8c8f8a5c8d9c8a5c8d9c8a5c8d/tenor.gif)
+![Gandalf Light Burst](https://tenor.com/view/lotr-light-gandalf-white-gif-20018885)
 
 🚀 Full Stack Developer | 📚 Lifelong Learner | 🎮 Gaming | 🏄‍♂️ Skimboarding | 🎲 D&D
 
@@ -49,10 +49,6 @@ If you’re into coding, gaming, or have any treasure (fantasy book recommendati
 ![Testing](https://img.shields.io/badge/-Testing-25A162)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F)
-
-
-## 📅 GitHub Contribution Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JoaoPedroGuerreiro&bg_color=ffffff&color=00bfae&line=00bfae&point=00bfae&area=true&area_color=00bfae)
 
 
 ## 📈 GitHub Stats
