@@ -17,6 +17,8 @@ If you’re into coding, gaming, or have any treasure (fantasy book recommendati
 ## 🌟 Featured Projects 
 | Project |
 |---------|
+
+| [mYRC - with JavaFX](https://github.com/JoaoPedroGuerreiro/mYRC-with-JavaFX/blob/main/README.md) |
 | [ChatServer - mYRC](https://github.com/JoaoPedroGuerreiro/mYRC_ChatServer_TCP) |
 | [Picasso](https://github.com/JoaoPedroGuerreiro/Picasso-aka-CubeDraw) |
 | [VolunteerHUB](https://github.com/JoaoPedroGuerreiro/VolunteerHUB)|
