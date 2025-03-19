@@ -15,7 +15,7 @@ Whether it’s in code or on a D&D map. My passion for creative problem-solving 
 If you’re into coding, gaming, or have any treasure (fantasy book recommendations) to share, let’s connect!
 
 ## 🌟 Featured Projects 
-| Project |
+| Projects |
 |---------|
 
 | [mYRC - with JavaFX](https://github.com/JoaoPedroGuerreiro/mYRC-with-JavaFX/blob/main/README.md) |
