@@ -1,6 +1,6 @@
 # Greetings, fellow adventurers⚔️ I'm João Pedro Guerreiro!
 
-🚀 Full Stack Developer | 📚 Lifelong Learner | 🎮 Gaming | 🏄‍♂️ Skimboarding | 🎲 D&D
+🚀 Full Stack Developer | 📚 Lifelong Learner | 🎮 Gaming | 🏄‍♂️ Skimboard | 🎲 D&D
 
 ![Gandalf Light Burst](https://media1.tenor.com/m/sUNu2J-syckAAAAd/lotr-light.gif)
 
